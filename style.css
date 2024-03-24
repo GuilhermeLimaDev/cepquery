@@ -43,6 +43,10 @@ input {
 
 }
 
+input::placeholder {
+    color: #f0ffff94;
+}
+
 #enviar {
     width: 100%;
     padding: 6px 0px;
